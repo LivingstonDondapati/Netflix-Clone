@@ -732,7 +732,7 @@ linear-gradient(
 }
 
 .footer-contact {
-  margin-bottom: -30px;
+  margin-bottom: 0px;
   font-size: 1rem;
 }
 
@@ -779,6 +779,18 @@ linear-gradient(
   font-size: 0.875rem;
   margin-top: 20px;
   color: #b3b3b3 !important;
+}
+
+.disclaimer {
+  background: transparent;
+  background: transparent;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1px;
 }
 
 
